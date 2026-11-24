@@ -1,6 +1,6 @@
 aiofiles==24.1.0
 annotated-types==0.7.0
-anyio==4.7.0
+anyio==4.14.2
 av==14.0.1
 babel==2.16.0
 beautifulsoup4==4.12.3
